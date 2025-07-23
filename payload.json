@@ -1,0 +1,10 @@
+{
+    "url": "https://candid-sunflower-7f866d.netlify.app/payload.yaml",
+    "urls": [{
+        "url": "https://candid-sunflower-7f866d.netlify.app/payload.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://candid-sunflower-7f866d.netlify.app/payload.yaml",
+        "name": "Foo2"
+    }]
+}
