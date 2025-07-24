@@ -1,10 +1,10 @@
 {
-    "url": "https://candid-sunflower-7f866d.netlify.app/payload2.yaml",
+    "url": "https://manojhodal.github.io/Swagger_poc/payload2.yaml",
     "urls": [{
-        "url": "https://candid-sunflower-7f866d.netlify.app/payload2.yaml",
+        "url": "https://manojhodal.github.io/Swagger_poc/payload2.yaml",
         "name": "Foo"
     },{
-        "url": "https://candid-sunflower-7f866d.netlify.app/payload2.yaml",
+        "url": "https://manojhodal.github.io/Swagger_poc/payload2.yaml",
         "name": "Foo2"
     }]
 }
